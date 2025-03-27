@@ -1,12 +1,12 @@
+
+
+
+> github/ameenabbasii
+
 <p align="left">
-  <p>              <p>
-  <img src="https://i.imgur.com/03ehjMN.png" width="270" align="left" style="margin-right: 20px;">
+  <img src="https://i.imgur.com/03ehjMN.png" width="290" align="left" style="margin-right: 20px; padding-top: 200px">
 </p>
 
-
-```js
-> github/ameenabbasii
-```
 ```js
 OS: Microsoft Windows 11 Pro
 Terminal: PwrShl/Cmd
@@ -15,7 +15,8 @@ CPU: AMD Ryzen 5 5600 (12) @ 3.493GHz
 GPU: NVIDIA GeForce RTX 2080
 Memory: 16,310 MB
 Location: Karachi, Pakistan
-
+```
+```md
 Languages:
 - R, JavaScript, Python, C/C++  
 
@@ -30,7 +31,9 @@ DevOps:
 
 Tools:
 - TensorFlow, PyTorch, Pandas, Numpy, Hugging Face,Qt
+
 ```
+
 <br>
 
   > **"An equation means nothing to me unless it expresses a thought of God."**  
