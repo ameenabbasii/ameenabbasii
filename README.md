@@ -1,9 +1,5 @@
 
-
-
-> github/ameenabbasii
-
-<p align="left">
+<p align="left"">
   <img src="https://i.imgur.com/03ehjMN.png" width="270" align="left" style="margin-right: 20px;">
 </p>
 
@@ -33,7 +29,7 @@ Tools:
 - TensorFlow, PyTorch, Pandas, Numpy, Hugging Face,Qt
 
 ```
-
+##
 <br>
 
   > **"An equation means nothing to me unless it expresses a thought of God."**  
