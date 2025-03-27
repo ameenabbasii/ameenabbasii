@@ -8,11 +8,11 @@ ameenabbasii@github
 ```
 ```md
 **********************
-OS: Ubuntu 24.04 LTS
-Kernel: 5.15.167-WSL2
-Uptime: 19 years
+OS: Microsoft Windows 11 Pro
+Kernel: 10.0.26100 N/A Build 26100
+Uptime: 1-year(s)
 WM: i3-gaps
-Terminal: Alacritty
+Terminal: PwrShl/Cmd
 CUDA Version: 12.8
 CPU: AMD Ryzen 5 5600 (12) @ 3.493GHz
 GPU: NVIDIA GeForce RTX 2080
