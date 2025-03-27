@@ -5,7 +5,7 @@
 
 
 ```js
-> neofetch
+> github/ameenabbasii
 ```
 ```js
 OS: Microsoft Windows 11 Pro
