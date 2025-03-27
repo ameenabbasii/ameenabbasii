@@ -7,7 +7,6 @@
 ameenabbasii@github
 ```
 ```md
-**********************
 OS: Microsoft Windows 11 Pro
 Terminal: PwrShl/Cmd
 CUDA Version: 12.8
