@@ -1,16 +1,19 @@
-## Hi there 👋
+               A               ameenabbasii@github
+              /#\              -------------------------
+             /###\             OS: Microsoft Windows 11 Pro 
+            /#####\            Kernel: 10.0.26100 N/A Build 26100  
+           /#######\           Uptime: 19 years  
+          _ "=######\          System Type: x64-based PC 
+         /##=,_\#####\         WM: i3-gaps  
+        /#############\        Terminal: Command Prompt  
+       /###############\       CUDA Version: 12.8   
+      /#################\      CPU: AMD Ryzen 5 5600 (12) @ 3.493GHz  
+     /###################\     GPU: NVIDIA GeForce RTX 2080 
+    /########*"""*########\    Memory: 16,310 MB  
+   /#######/       \#######\   Location: Karachi, Pakistan  
+  /########         ########\  
+ /#########         ######m=,_  
+/##########         ##########\  
+/######*                *######\
+/###                         ###\
 
-<!--
-**ameenabbasii/ameenabbasii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
