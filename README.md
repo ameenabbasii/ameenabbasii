@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="https://i.imgur.com/03ehjMN.png" width="310" align="left" style="margin-right: 20px;">
+  <p>              <p>
+  <img src="https://i.imgur.com/03ehjMN.png" width="270" align="left" style="margin-right: 20px;">
 </p>
 
 
@@ -30,8 +31,12 @@ DevOps
 Tools
 - TensorFlow, PyTorch, Pandas, Numpy, Hugging Face,Qt
 ```
+<br>
+
   > **"An equation means nothing to me unless it expresses a thought of God."**  
   > — Ramanujan
+
+<br>
 
 <p align="left">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />  
