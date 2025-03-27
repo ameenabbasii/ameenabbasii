@@ -1,4 +1,4 @@
-| ![Neofetch](<blockquote class="imgur-embed-pub" lang="en" data-id="a/jUTjsvH"><a href="//imgur.com/jUTjsvH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>) | **ameenabbasii@github**  
+| [img]https://i.imgur.com/r21YxtP.png[/img] | **ameenabbasii@github**  
 |---------------------------------|-------------------------------|  
 | **OS:** Microsoft Windows 11 Pro | **Kernel:** 10.0.26100 N/A Build 26100 |  
 | **Uptime:** 19 years            | **System Type:** x64-based PC |  
