@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/r21YxtP.png" width="400" align="left">
 </p>
 
-
+```md
 ameenabbasii@github  
 -------------------------  
 OS: Ubuntu 24.04 LTS  
