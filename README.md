@@ -1,4 +1,5 @@
-| [img]https://i.imgur.com/r21YxtP.png[/img] | **ameenabbasii@github**  
+| ![Neofetch Screenshot](https://i.imgur.com/r21YxtP.png)
+ | **ameenabbasii@github**  
 |---------------------------------|-------------------------------|  
 | **OS:** Microsoft Windows 11 Pro | **Kernel:** 10.0.26100 N/A Build 26100 |  
 | **Uptime:** 19 years            | **System Type:** x64-based PC |  
