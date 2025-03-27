@@ -2,6 +2,7 @@
   <img src="https://i.imgur.com/r21YxtP.png" width="400" align="left">
 </p>
 
+```md
 ### ameenabbasii@github  
 **-------------------------**  
 **OS:** Ubuntu 24.04 LTS  
@@ -14,8 +15,3 @@
 **GPU:** NVIDIA GeForce RTX 2080  
 **Memory:** 16,310 MB  
 **Location:** Karachi, Pakistan  
-
----
-
-### 📊 **GitHub Stats**
-![Ameen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameenabbasii&show_icons=true&theme=radical)
