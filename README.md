@@ -4,10 +4,10 @@
 </p>
 
 
-```md
-ameenabbasii@github
+```js
+> neofetch
 ```
-```md
+```js
 OS: Microsoft Windows 11 Pro
 Terminal: PwrShl/Cmd
 CUDA Version: 12.8
@@ -16,19 +16,19 @@ GPU: NVIDIA GeForce RTX 2080
 Memory: 16,310 MB
 Location: Karachi, Pakistan
 
-Programming Languages
+Languages:
 - R, JavaScript, Python, C/C++  
 
-Web Development & Frameworks
+WebFrameworks:
 - HTML, CSS, React, Node.js, Express 
 
-Databases 
+Databases:
 - PostgreSQL, MongoDB, MySQL
 
-DevOps
+DevOps:
 - Docker, Docker Compose
 
-Tools
+Tools:
 - TensorFlow, PyTorch, Pandas, Numpy, Hugging Face,Qt
 ```
 <br>
@@ -44,3 +44,7 @@ Tools
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />  
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />  
 </p>
+
+
+```
+
