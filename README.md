@@ -19,4 +19,6 @@ GPU: NVIDIA GeForce RTX 2080
 Memory: 16,310 MB
 Location: Karachi, Pakistan
 ```
+> **"An equation means nothing to me unless it expresses a thought of God."**  
+> — Ramanujan
 
