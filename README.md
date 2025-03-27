@@ -4,7 +4,7 @@
 > github/ameenabbasii
 
 <p align="left">
-  <img src="https://i.imgur.com/03ehjMN.png" width="290" align="left" style="margin-right: 20px; padding-top: 200px">
+  <img src="https://i.imgur.com/03ehjMN.png" width="270" align="left" style="margin-right: 20px;">
 </p>
 
 ```js
