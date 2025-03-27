@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.imgur.com/03ehjMN.png" width="250" align="left" style="margin-right: 20px;">
+  <img src="https://i.imgur.com/03ehjMN.png" width="310" align="left" style="margin-right: 20px;">
 </p>
 
 
@@ -9,15 +9,27 @@ ameenabbasii@github
 ```md
 **********************
 OS: Microsoft Windows 11 Pro
-Kernel: 10.0.26100 N/A Build 26100
-Uptime: 1-year(s)
-WM: i3-gaps
 Terminal: PwrShl/Cmd
 CUDA Version: 12.8
 CPU: AMD Ryzen 5 5600 (12) @ 3.493GHz
 GPU: NVIDIA GeForce RTX 2080
 Memory: 16,310 MB
 Location: Karachi, Pakistan
+
+Programming Languages
+- R, JavaScript, Python, C/C++  
+
+Web Development & Frameworks
+- HTML, CSS, React, Node.js, Express 
+
+Databases 
+- PostgreSQL, MongoDB, MySQL
+
+DevOps
+- Docker, Docker Compose
+
+Tools
+- TensorFlow, PyTorch, Pandas, Numpy, Hugging Face,Qt
 ```
   > **"An equation means nothing to me unless it expresses a thought of God."**  
   > — Ramanujan
