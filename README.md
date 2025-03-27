@@ -1,4 +1,5 @@
 # ameenabbasii  
+![Neofetch](https://github.com/ameenabbasii/ameenabbasii/blob/main/arch.png)
 
 <pre>
 <span style="color: #23D18B;">ameenabbasii@github</span>  
